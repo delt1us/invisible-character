@@ -1,7 +1,7 @@
 {
   "name": "Invisible-Character",
   "version": "0.1.0",
-  "title": "Invisible-Character",
+  "title": "Invisible Character",
   "author": "_striker",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
