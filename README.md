@@ -1,3 +1,3 @@
 # Invisible Character
 
-Makes your character invisible
+Simple Factorio mod that makes your character invisible
